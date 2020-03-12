@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: example-beans
+Version: 0.1
+Summary: A small example package
+Home-page: https://github.com/agomez66/examplebeans
+Author: Abraham Gomez
+Author-email: agomez66@xtec.cat
+License: UNKNOWN
+Description: No es obligatorio
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

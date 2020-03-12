@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+example_pkg_beans.egg-info/PKG-INFO
+example_pkg_beans.egg-info/SOURCES.txt
+example_pkg_beans.egg-info/dependency_links.txt
+example_pkg_beans.egg-info/top_level.txt
+main/__init__.py
